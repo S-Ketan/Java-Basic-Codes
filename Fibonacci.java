@@ -3,7 +3,7 @@ package JavaBasicCodes;
 import java.util.Scanner;
 
 public class Fibonacci {
-
+  //This program prints the Fibonacci sequence using recursive and non recursive method both
   // 0,1,1,2,3,5,8,13...
   public static void main(String[] args) {
 
