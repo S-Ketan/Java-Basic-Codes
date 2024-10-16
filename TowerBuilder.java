@@ -1,4 +1,7 @@
 import java.util.*;
+
+//This Program Builds up a tower for you taking how many floors you want as an input.
+//Just Express your wish with an integer and see the magic!
 public class TowerBuilder {
     public static String[] towerBuilder(int nFloors)
     {
