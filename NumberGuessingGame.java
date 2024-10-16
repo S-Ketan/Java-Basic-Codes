@@ -1,5 +1,9 @@
 package JavaBasicCodes;
     import java.util.*;
+
+    //This is a game where the user is required to guess a number and the Computer will let you know 
+    //whether the number you've entered is higher or lower than the generated number.
+    //The no. of attempts it takes for you to guess the number is your score.
     public class NumberGuessingGame {  
     
         static class game{
